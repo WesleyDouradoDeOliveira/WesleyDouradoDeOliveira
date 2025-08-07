@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Wesley Dourado de Oliveira 👋
 
-<!--
-**WesleyDouradoDeOliveira/WesleyDouradoDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação**  
+💻 **Desenvolvedor Web em formação**  
+📍 Brasil  
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou constantemente em busca de evolução. Tenho focado meus estudos e projetos em desenvolvimento web completo, sempre buscando criar soluções funcionais, modernas e responsivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que domino
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **PHP**  
+- **MySQL**  
+- **Design Responsivo (Mobile First)**  
+- **Integração com APIs (WhatsApp, Instagram)**  
+
+---
+
+## 🌟 Projetos em destaque
+
+### 🔗 [Rose Dourado Estética e Massagens](http://rosedourado.infinityfreeapp.com)  
+Site institucional completo com:
+- Front-end responsivo
+- Back-end em PHP
+- Integração com banco de dados MySQL
+- Formulário de contato com envio via WhatsApp
+- SEO e usabilidade otimizadas  
+
+📁 Repositório no GitHub:  
+[github.com/WesleyDouradoDeOliveira/site](https://github.com/WesleyDouradoDeOliveira/site)
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack  
+- Otimização de performance e SEO  
+- Experiência do usuário (UX)  
+
+---
+
+## 📫 Onde me encontrar
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wesleydouradodeoliveira/)  
+- 🐙 [GitHub](https://github.com/WesleyDouradoDeOliveira)  
+
+---
+
+> 💬 Sempre aberto a colaborações, feedbacks e novas conexões!
