@@ -45,8 +45,8 @@ Site institucional completo com:
 
 ## 📫 Onde me encontrar
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wesleydouradodeoliveira/)  
-- 🐙 [GitHub](https://github.com/WesleyDouradoDeOliveira)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wesley-dourado-de-oliveira-b83a75223/)  
+- 🐙 [GitHub](https://github.com/WesleyDouradoDeOliveira)
 
 ---
 
