@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia e estou constantemente em busca de evolução. Ten
 - **CSS3**  
 - **JavaScript**  
 - **PHP**  
-- **MySQL**  
+- **Banco de Dados MySQL**  
 - **Design Responsivo (Mobile First)**  
 - **Integração com APIs (WhatsApp, Instagram)**  
 
@@ -24,11 +24,12 @@ Sou apaixonado por tecnologia e estou constantemente em busca de evolução. Ten
 
 ### 🔗 [Rose Dourado Estética e Massagens](http://rosedourado.infinityfreeapp.com)  
 Site institucional completo com:
-- Front-end responsivo
-- Back-end em PHP
-- Integração com banco de dados MySQL
-- Formulário de contato com envio via WhatsApp
-- SEO e usabilidade otimizadas  
+- Front-end responsivo  
+- Back-end em PHP  
+- Integração com banco de dados MySQL  
+- Formulário de contato que coleta e armazena dados dos clientes no banco de dados MySQL  
+- Envio de mensagens via WhatsApp  
+- SEO e usabilidade otimizadas   
 
 📁 Repositório no GitHub:  
 [github.com/WesleyDouradoDeOliveira/site](https://github.com/WesleyDouradoDeOliveira/site)
